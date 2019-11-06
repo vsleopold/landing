@@ -1,0 +1,15 @@
+.list-inline ul, li{
+  list-style: none;
+  padding: 0px;
+  display: inline-block;
+}
+
+#social-icon {
+  font-size: 42px;
+  color: rgb(230,230,230);
+  margin: 15px;
+}
+
+#social-icon:hover {
+  color: rgb(120,120,120);
+ }
